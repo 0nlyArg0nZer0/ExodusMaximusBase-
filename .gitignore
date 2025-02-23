@@ -1,0 +1,21 @@
+# IDEs und Build-Tools
+.vscode/
+.idea/
+bin/
+build/
+Debug/
+Release/
+
+# Private Konfigurationsdateien
+config/
+*.env
+*.key
+*.pem
+secrets.txt
+
+# Datenbanken
+*.sqlite
+*.db
+
+# Log-Dateien
+*.log
